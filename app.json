@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "SpendWise",
+    "slug": "spendwise",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#fff7f8",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.azka.spendwise",
+      "buildNumber": "1"
+    },
+    "android": {
+      "package": "com.azka.spendwise",
+      "versionCode": 1
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
